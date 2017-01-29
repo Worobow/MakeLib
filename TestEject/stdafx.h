@@ -10,5 +10,4 @@
 #include <stdio.h>
 #include <tchar.h>
 
-//#include "..\ImageLib\ImageLib.h"
 #include "..\ImageLib\exbldr.h"
