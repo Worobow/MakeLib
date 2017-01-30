@@ -25,6 +25,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		build.cmd = build.cmd
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestCopyImage", "TestCopyImage\TestCopyImage.vcxproj", "{520BB20C-2422-411D-827D-6B88FE7C9FAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Mixed Platforms = Debug|Mixed Platforms
@@ -107,6 +109,18 @@ Global
 		{5B01D900-2359-44CA-9914-6B0C6AFB7BE7}.Release|Win32.Build.0 = Release|Win32
 		{5B01D900-2359-44CA-9914-6B0C6AFB7BE7}.Release|x64.ActiveCfg = Release|x64
 		{5B01D900-2359-44CA-9914-6B0C6AFB7BE7}.Release|x64.Build.0 = Release|x64
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Debug|Win32.Build.0 = Debug|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Debug|x64.ActiveCfg = Debug|x64
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Debug|x64.Build.0 = Debug|x64
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Release|Win32.ActiveCfg = Release|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Release|Win32.Build.0 = Release|Win32
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Release|x64.ActiveCfg = Release|x64
+		{520BB20C-2422-411D-827D-6B88FE7C9FAD}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
